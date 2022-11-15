@@ -1,3 +1,3 @@
 # Foam scripts
 
-Repositor with scripts for preprocessing, postprocessing or general data handling of data genereated with OpenFOAM
+Repository with scripts for preprocessing, postprocessing or general data handling of data genereated with OpenFOAM
